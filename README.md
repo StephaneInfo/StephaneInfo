@@ -1,5 +1,4 @@
 - 👋 Bonjour, je suis Stephane
-- 🌱 J'étudie en ce moment Spring, Design Pattern...
 - 💞️ Je suis à la recherche d'un poste en CDI, CDD
 - 📫 Vous pouvez me contacter par mail techerstephaneinfo@gmail.com
 
